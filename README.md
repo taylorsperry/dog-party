@@ -11,3 +11,6 @@ I also struggled with the JavaScript extension. I used querySelector to query th
 1. HTML
 2. CSS
 3. JavaScript
+
+## Screenshot
+<img width="495" alt="dog-party-screenshot" src="https://user-images.githubusercontent.com/43555476/49345301-255d2000-f640-11e8-964b-95adc9d2c039.png">
