@@ -12,5 +12,9 @@ I also struggled with the JavaScript extension. I used querySelector to query th
 2. CSS
 3. JavaScript
 
-## Screenshot
+## Screenshot and Comp
+Here's the comp we were asked to match: 
+<img width="583" alt="dog-party-comp" src="https://user-images.githubusercontent.com/43555476/49345363-ef6c6b80-f640-11e8-9566-1cb04b67aea6.png">
+
+And here's a screenshot of my finished project:
 <img width="495" alt="dog-party-screenshot" src="https://user-images.githubusercontent.com/43555476/49345301-255d2000-f640-11e8-964b-95adc9d2c039.png">
